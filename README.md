@@ -1,7 +1,7 @@
 # AnimeJS-Background-Effects
 Anime JS Background Animation Effects
 
-<h2>Créditos ao autor:</p>
+<h2>Créditos ao autor:</h2>
 <p>Olá, hoje irei reprpoduzir um modelo oublicado pelo canal Online Tutorials</p>
 <p>Segue o linhk do projeto</p>
 
