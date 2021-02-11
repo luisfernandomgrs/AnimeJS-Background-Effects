@@ -6,3 +6,7 @@ Anime JS Background Animation Effects
 <p>Segue o linhk do projeto</p>
 
 <code>https://www.youtube.com/watch?v=XMhHEVznWEY</code>
+
+<h2>O resultado deste projeto pode ser conferido aqui, ;)</h2
+  
+https://luisfernandomgrs.github.io/AnimeJS-Background-Effects/
